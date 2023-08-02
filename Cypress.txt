@@ -1,2 +1,4 @@
 Cypress Commands
-Test Addittion
+
+npx cypress Open
+npx cypress runfile
