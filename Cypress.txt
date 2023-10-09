@@ -1,4 +1,0 @@
-Cypress Commands
-
-npx cypress Open
-npx cypress runfile
